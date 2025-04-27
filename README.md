@@ -1,16 +1,31 @@
-## Hi there 👋
+### My Project Overview
 
-<!--
-**SagnikKundu07/SagnikKundu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Banners (5)](https://github.com/user-attachments/assets/4d3236ec-e58d-4b42-a8fd-3e83c05f760f)
 
-Here are some ideas to get you started:
+Hello, my name is Sagnik Kundu. I am a Data Analyst with expertise in data analysis, data modelling, data visualization, and reporting. I transform raw data into value insights using business requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Expertise
+
+- **Data Analysis** using SQL
+- **Snowflake SQL**
+- **Snowflake Cloud Data Warehouse**
+- **Data Modeling**
+- **Matillion ETL**
+- **Python** for Data Analysis and Enhancements
+- **MS Excel** for Data Analysis and Reporting
+- **Statistics**
+- **Data Visualization** using Power BI
+- **Generative AI** for text suggestion generation
+
+### Projects
+
+You can explore my data analysis projects by clicking on the links below:
+
+- [**Portfolio Link**](#)  
+- [**Download my Resume**](#)
+
+### Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/sagnik-kundu-68a5b01b0/)
+
+Thank you for visiting!
