@@ -21,7 +21,7 @@ Hello, my name is Sagnik Kundu. I am a Data Analyst with expertise in data analy
 
 You can explore my data analysis projects by clicking on the links below:
 
-- [**Portfolio Link**](#)  
+- [**Portfolio Link**](https://github.com/SagnikKundu07/Portfolio/blob/main/README.md)  
 - [**Download my Resume**](#)
 
 ### Connect with Me
